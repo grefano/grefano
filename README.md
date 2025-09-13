@@ -1,1 +1,1 @@
-bosta cu pinto
+
