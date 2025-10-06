@@ -4,6 +4,8 @@ estudante de *Ciência da Computação* na *Universidade Federal do Ceará*
 
 # Projetos
 
+## Twitch-Bot (atual) ([repositório](https://github.com/grefano/twitch-bot))
+
 ## [Boguin](https://boguin.vercel.app)
 
 
