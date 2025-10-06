@@ -4,9 +4,11 @@ estudante de *Ciência da Computação* na *Universidade Federal do Ceará*
 
 # Projetos
 
-## Boguin
+## [Boguin](https://boguin.vercel.app)
+
+
 **rede social baseada no youtube**
 
-## TANSO (autograde)
+## [TANSO](https://tanso.vercel.app/) (autograde)
 **site e executavel que possibilitam a visualização e colaboração de código em uma sala digital privada**
 
