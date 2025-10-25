@@ -4,6 +4,8 @@ estudante de *Ciência da Computação* na *Universidade Federal do Ceará*
 
 # Projetos
 
+## aprendendo OpenGL e C++ ([repositório](https://github.com/grefano/opengl)) 
+
 ## [Boguin](https://boguin.vercel.app) (repositórios [frontend](https://github.com/grefano/boguin) e [backend](https://github.com/grefano/server-boguin))
 **rede social baseada no youtube**
 
